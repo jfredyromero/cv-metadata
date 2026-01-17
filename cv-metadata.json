@@ -24,7 +24,7 @@
 			}
 		],
 		"picture": {
-			"url": "https://storage.rxresu.me/cmk0d7wru0k6g11dccrgc7d8n/pictures/i6hvz4odesjbteqn1u373vq2.jpg",
+			"url": "https://storage.rxresu.me/cmk0d7wru0k6g11dccrgc7d8n/pictures/b133fktwn5ywlmrl571mx8ez.jpg",
 			"size": 132,
 			"aspectRatio": 0.75,
 			"borderRadius": 6,
@@ -519,7 +519,7 @@
 			"format": "a4",
 			"options": {
 				"breakLine": true,
-				"pageNumbers": true
+				"pageNumbers": false
 			}
 		},
 		"theme": {
