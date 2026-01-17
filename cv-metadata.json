@@ -291,11 +291,38 @@
 		},
 		"projects": {
 			"name": "Projects",
-			"columns": 1,
+			"columns": 3,
 			"separateLinks": true,
 			"visible": true,
 			"id": "projects",
-			"items": []
+			"items": [
+				{
+					"id": "z7dnfuf02arf7tolxt7z47od",
+					"visible": true,
+					"name": "Spotify Clone",
+					"description": "Astro + React",
+					"date": "",
+					"summary": "<p>Built a Spotify clone with <strong>Astro and React,</strong> leveraging <strong>Island Architecture</strong>. By integrating the <strong>View Transitions API </strong> and <strong>Zustand</strong>, I enabled seamless, uninterrupted audio playback during SSR navigation, blending the SEO benefits of a multi-page site with the fluid UX of an SPA.</p>",
+					"keywords": [],
+					"url": {
+						"label": "Link",
+						"href": "https://spotify-react-eta.vercel.app/"
+					}
+				},
+				{
+					"id": "zl07xf9o8z4j8qsodg612f4l",
+					"visible": true,
+					"name": "Spotify Clone",
+					"description": "Astro + Vue",
+					"date": "",
+					"summary": "<p>Built a Spotify clone using <strong>Astro and Vue 3</strong> that defies the traditional MPA/SPA boundary. By utilizing <strong>View Transitions</strong> and <strong>Pinia</strong>, I created a multi-page site where music never stops during navigation, combining the SEO benefits of SSR with the fluid UX of a modern SPA</p>",
+					"keywords": [],
+					"url": {
+						"label": "Link",
+						"href": "https://spotify-vue-beta.vercel.app/"
+					}
+				}
+			]
 		},
 		"publications": {
 			"name": "Publications",
