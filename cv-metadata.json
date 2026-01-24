@@ -21,6 +21,18 @@
 				"icon": "whatsapp-logo",
 				"name": "+57 3014822371",
 				"value": "https://wa.me/573014822371"
+			},
+			{
+				"id": "r7twmqyf857h1zxp3hptin7m",
+				"icon": "globe",
+				"name": "Portfolio",
+				"value": "https://jfredyromero.github.io/portfolio/"
+			},
+			{
+				"id": "tc19fm5m4xez23ij2aedya98",
+				"icon": "github-logo",
+				"name": "GitHub",
+				"value": "https://github.com/jfredyromero"
 			}
 		],
 		"picture": {
