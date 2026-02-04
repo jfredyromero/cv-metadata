@@ -1,571 +1,583 @@
 {
-	"picture": {
-		"hidden": false,
-		"url": "https://storage.rxresu.me/cmk0d7wru0k6g11dccrgc7d8n/pictures/b133fktwn5ywlmrl571mx8ez.jpg",
-		"size": 132,
-		"rotation": 0,
-		"aspectRatio": 0.75,
-		"borderRadius": 6,
-		"borderColor": "rgba(0, 0, 0, 0)",
-		"borderWidth": 0,
-		"shadowColor": "rgba(0, 0, 0, 0.5)",
-		"shadowWidth": 0
-	},
-	"basics": {
-		"name": "Jhon Fredy Romero",
-		"headline": "Senior Front-End Engineer | Software Engineer | Veeva Expert",
-		"email": "jfredyrom@gmail.com",
-		"phone": "+57 3014822371",
-		"location": "Popayán, Colombia",
-		"website": {
-			"url": "https://jfredyromero.github.io/portfolio/",
-			"label": ""
+	"id": "019bef9e-7a71-727d-aa9d-001c806f859f",
+	"name": "Senior Front End Engineer CV",
+	"slug": "senior-front-end-engineer-cv",
+	"tags": [],
+	"data": {
+		"picture": {
+			"hidden": false,
+			"url": "https://storage.rxresu.me/cmk0d7wru0k6g11dccrgc7d8n/pictures/b133fktwn5ywlmrl571mx8ez.jpg",
+			"size": 132,
+			"rotation": 0,
+			"aspectRatio": 0.75,
+			"borderRadius": 6,
+			"borderColor": "rgba(0, 0, 0, 0)",
+			"borderWidth": 0,
+			"shadowColor": "rgba(0, 0, 0, 0.5)",
+			"shadowWidth": 0
 		},
-		"customFields": [
-			{
-				"id": "ozn61596g7o23w6ymeg82fk9",
-				"icon": "linkedin-logo",
-				"text": "LinkedIn",
-				"link": "https://www.linkedin.com/in/jfredyromero/"
+		"basics": {
+			"name": "Jhon Fredy Romero",
+			"headline": "Senior Front-End Engineer | Software Engineer | Veeva Expert",
+			"email": "jfredyrom@gmail.com",
+			"phone": "+57 3014822371",
+			"location": "Popayán, Colombia",
+			"website": {
+				"url": "https://jfredyromero.github.io/portfolio/",
+				"label": ""
 			},
-			{
-				"id": "hhzzozoul1jvt9sdpoxxmqex",
-				"icon": "whatsapp-logo",
-				"text": "WhatsApp ",
-				"link": "https://wa.me/573014822371"
+			"customFields": [
+				{
+					"id": "ozn61596g7o23w6ymeg82fk9",
+					"icon": "linkedin-logo",
+					"text": "LinkedIn",
+					"link": "https://www.linkedin.com/in/jfredyromero/"
+				},
+				{
+					"id": "hhzzozoul1jvt9sdpoxxmqex",
+					"icon": "whatsapp-logo",
+					"text": "WhatsApp ",
+					"link": "https://wa.me/573014822371"
+				},
+				{
+					"id": "tc19fm5m4xez23ij2aedya98",
+					"icon": "github-logo",
+					"text": "GitHub",
+					"link": "https://github.com/jfredyromero"
+				}
+			]
+		},
+		"summary": {
+			"title": "Summary",
+			"columns": 1,
+			"hidden": false,
+			"content": "<p>Senior Front-End and Software Engineer with 7+ years of experience delivering scalable, compliant, and high-impact digital solutions within regulated environments, particularly in the pharmaceutical industry. Specialized in designing and architecting modern web applications, with deep expertise in front-end engineering using React, Angular, Astro, Sass, and Node.js.</p><p>Recognized as a technical leader and platform owner, I have designed internal platforms, boilerplates, and automation tools, while also owning CI/CD pipelines and cloud deployments on Azure. I have led distributed teams across multiple regions, defined end-to-end development workflows, and proactively resolved complex compliance issues. </p><p>I focus on building maintainable systems, enabling teams through strong engineering practices, and continuously improving delivery through automation, scalable architecture, and high-quality technical execution.</p>"
+		},
+		"sections": {
+			"profiles": {
+				"title": "Profiles",
+				"columns": 1,
+				"hidden": false,
+				"items": []
 			},
-			{
-				"id": "tc19fm5m4xez23ij2aedya98",
-				"icon": "github-logo",
-				"text": "GitHub",
-				"link": "https://github.com/jfredyromero"
+			"experience": {
+				"title": "Experience",
+				"columns": 1,
+				"hidden": false,
+				"items": [
+					{
+						"id": "bg19yqmqvpcozrgqbpgwnxce",
+						"hidden": false,
+						"company": "Content Factory - Publicis Production",
+						"position": "Senior Front End Engineer",
+						"location": "Bogotá, Colombia",
+						"period": "Dec 2025 - Present",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Served as Front-End Lead and Veeva Expert, owning development standards, technical decision-making, and compliance resolution across the account and standardizing end-to-end Digital Sales Presentations (DSPs) development workflows, significantly reducing delivery time and manual effort.</p></li><li><p>Designed, deployed, and supported React + Node.js internal platforms to automate project delivery, business rules enforcement, compliance validation, and Jira task generation.</p></li><li><p>Designed and maintained CI/CD pipelines using Azure Pipelines, enabling automated deployments of multiple internal React + Node.js applications to Azure Web App Services.</p></li><li><p>Led and mentored distributed teams across India, Czech Republic, Costa Rica, Colombia, and Poland, providing technical leadership and knowledge sharing.</p></li></ul>"
+					},
+					{
+						"id": "ebhccda9f970ecicq6o6mxrc",
+						"hidden": false,
+						"company": "Content Factory - Publicis Global Delivery",
+						"position": "Senior Front-End Engineer",
+						"location": "Bogotá, Colombia",
+						"period": "Aug 2023 - Dec 2025",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Developed Digital Sales Presentations (DSPs) on the Veeva platform, delivering interactive, gesture-based experiences for healthcare professionals.</p></li><li><p>Designed and implemented a custom Astro + React boilerplate, enabling scalable slide-based SPAs, automated builds, and full compliance with Veeva requirements.</p></li><li><p>Led technical processes and team organization, defining workflows, task breakdowns, delegation strategies, and providing technical guidance to front-end developers.</p></li></ul>"
+					},
+					{
+						"id": "hcpn85vug78t8v402adw5is0",
+						"hidden": false,
+						"company": "Publicis Canadá - Publicis Global Delivery",
+						"position": "Front-End Engineer",
+						"location": "Bogotá, Colombia",
+						"period": "Dec 2022 - Aug 2023",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Styled and customized AEM components to match pharmaceutical web designs under strict platform and CSS constraints.</p></li><li><p>Designed and implemented a scalable Sass-based CSS architecture, modularizing styles into a single deployable AEM-compatible output.</p></li><li><p>Introduced Git-based version control and local live-preview workflows, significantly improving maintainability and team efficiency.</p></li></ul>"
+					},
+					{
+						"id": "i0cuj19gfrb9dm9mmq0uuu11",
+						"hidden": false,
+						"company": "Prodigious - Publicis Global Delivery",
+						"position": "Front-End Engineer",
+						"location": "Bogotá, Colombia",
+						"period": "May 2022 – Dec 2022",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Converted UI/UX designs into reusable components using Angular and Vue.js.</p></li><li><p>Developed pixel-perfect, mobile-first layouts for mobile and desktop following best design practices.</p></li><li><p>Implemented features by consuming backend APIs, with full focus on front-end development.</p></li></ul>"
+					},
+					{
+						"id": "ehqczgevqqan0da2413131nd",
+						"hidden": false,
+						"company": "Cumbre SAS – Software House",
+						"position": "Full-Stack Web Developer",
+						"location": "Popayán, Colombia",
+						"period": "Jan 2020 – May 2022",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Developed and maintained reactive backend services using Java Spring Boot.</p></li><li><p>Designed and exposed REST APIs, integrating them with an Angular front-end.</p></li><li><p>Built Angular components and integrated them with backend services.</p></li><li><p>Worked with PostgreSQL, handling complex data models and large datasets.</p></li></ul>"
+					},
+					{
+						"id": "wq7vm0qcshugos0zfk6e2qyf",
+						"hidden": false,
+						"company": "Level – Local Software House Entrepreneurship",
+						"position": "Founder, Manager Director, Technical Director",
+						"location": "Popayán, Colombia",
+						"period": "Aug 2018 - May 2020",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Owned the technical architecture and overall system design, leading both frontend and backend development.</p></li><li><p>Translated business and user requirements into technical solutions and development estimates.</p></li><li><p>Led release management, including code reviews, client demos, QA handoffs, and technical decision-making.</p></li></ul>"
+					}
+				]
+			},
+			"education": {
+				"title": "Education",
+				"columns": 1,
+				"hidden": false,
+				"items": [
+					{
+						"id": "u2l90ix881yi26xaggj2k3r6",
+						"hidden": false,
+						"school": "Universidad del Cauca",
+						"degree": "",
+						"area": "Electronic and Telecommunications Engineering",
+						"grade": "",
+						"location": "",
+						"period": "Aug 2017 - Aug 2023",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": ""
+					},
+					{
+						"id": "rl3xcs823anq6cpwwh1uyosb",
+						"hidden": false,
+						"school": "Universidad Sergio Arboleda",
+						"degree": "",
+						"area": "Web Development",
+						"grade": "",
+						"location": "",
+						"period": "Jan 2021 - Dec 2021",
+						"website": {
+							"url": "https://www.misiontic2022.gov.co/",
+							"label": "Mision TIC 2022"
+						},
+						"description": ""
+					},
+					{
+						"id": "bk8of9ge5uymwtqb5lrmk10b",
+						"hidden": false,
+						"school": "Correlation One",
+						"degree": "",
+						"area": "Data Science",
+						"grade": "",
+						"location": "",
+						"period": "Jun 2021 - Jul 2022",
+						"website": {
+							"url": "https://www.credential.net/825723c0-2748-4075-87a5-174088ffbca6#acc.TByh5tgj",
+							"label": "Certificate"
+						},
+						"description": ""
+					}
+				]
+			},
+			"projects": {
+				"title": "Projects",
+				"columns": 3,
+				"hidden": false,
+				"items": [
+					{
+						"id": "z7dnfuf02arf7tolxt7z47od",
+						"hidden": false,
+						"name": "Spotify Clone",
+						"period": "Astro + React",
+						"website": {
+							"url": "https://spotify-react-eta.vercel.app/",
+							"label": "Link"
+						},
+						"description": "<p>Built a Spotify clone with <strong>Astro and React,</strong> leveraging <strong>Island Architecture</strong>. By integrating the <strong>View Transitions API </strong> and <strong>Zustand</strong>, I enabled seamless, uninterrupted audio playback during SSR navigation, blending the SEO benefits of a multi-page site with the fluid UX of an SPA.</p>"
+					},
+					{
+						"id": "zl07xf9o8z4j8qsodg612f4l",
+						"hidden": false,
+						"name": "Spotify Clone",
+						"period": "Astro + Vue",
+						"website": {
+							"url": "https://spotify-vue-beta.vercel.app/",
+							"label": "Link"
+						},
+						"description": "<p>Built a Spotify clone using <strong>Astro and Vue 3</strong> that defies the traditional MPA/SPA boundary. By utilizing <strong>View Transitions</strong> and <strong>Pinia</strong>, I created a multi-page site where music never stops during navigation, combining the SEO benefits of SSR with the fluid UX of a modern SPA</p>"
+					}
+				]
+			},
+			"skills": {
+				"title": "Skills",
+				"columns": 3,
+				"hidden": false,
+				"items": [
+					{
+						"id": "lx90rrwcptjg0yhojkw19syv",
+						"hidden": false,
+						"icon": "",
+						"name": "Front-End",
+						"proficiency": "",
+						"level": 5,
+						"keywords": ["React", "Angular", "Astro", "Vue"]
+					},
+					{
+						"id": "jj9nm0q5zlv2rcv826g8ks4q",
+						"hidden": false,
+						"icon": "",
+						"name": "Programming Languages",
+						"proficiency": "",
+						"level": 5,
+						"keywords": [
+							"Javascript",
+							"Typescript",
+							"Python",
+							"Java",
+							"PHP"
+						]
+					},
+					{
+						"id": "d1i3s521wn7qol3rkulv61hw",
+						"hidden": false,
+						"icon": "",
+						"name": "Control Versioning",
+						"proficiency": "",
+						"level": 5,
+						"keywords": ["Git", "GitHub", "GitLab"]
+					},
+					{
+						"id": "qgvyglhue4wfcycbhe00d7r8",
+						"hidden": false,
+						"icon": "",
+						"name": "Soft Skills",
+						"proficiency": "",
+						"level": 5,
+						"keywords": [
+							"Mentoring",
+							"Decision making",
+							"Proactivity"
+						]
+					},
+					{
+						"id": "itc5vmcvomqre6d5edjfnm59",
+						"hidden": false,
+						"icon": "",
+						"name": "Back-End",
+						"proficiency": "",
+						"level": 4,
+						"keywords": ["Spring Boot", "Django", "Laravel"]
+					},
+					{
+						"id": "reghherhxnnfp6yda4eidis4",
+						"hidden": false,
+						"icon": "",
+						"name": "Cloud",
+						"proficiency": "",
+						"level": 3,
+						"keywords": ["Azure", "AWS", "Oracle", "GCP"]
+					}
+				]
+			},
+			"languages": {
+				"title": "Languages",
+				"columns": 3,
+				"hidden": false,
+				"items": [
+					{
+						"id": "zpzye7r92dtikh1pcttc4ljp",
+						"hidden": false,
+						"language": "Spanish",
+						"fluency": "Native",
+						"level": 5
+					},
+					{
+						"id": "xmqavx26wh8a07y0gtzlu7r6",
+						"hidden": false,
+						"language": "English",
+						"fluency": "C2",
+						"level": 5
+					},
+					{
+						"id": "zepy62xoanemagpk8znut6l8",
+						"hidden": false,
+						"language": "Italian",
+						"fluency": "B1",
+						"level": 3
+					}
+				]
+			},
+			"interests": {
+				"title": "Interests",
+				"columns": 1,
+				"hidden": false,
+				"items": []
+			},
+			"awards": {
+				"title": "Awards",
+				"columns": 1,
+				"hidden": false,
+				"items": [
+					{
+						"id": "f4ru9sqonhc5ni874nwmgk2h",
+						"hidden": false,
+						"title": "Extreme Programming, 1st Place",
+						"awarder": "IEEE Colombia",
+						"date": "Feb 2020",
+						"website": {
+							"url": "https://drive.google.com/file/d/1WSC6nYELkEuFOTwcL0KOqjNTT7OmVlSx/view",
+							"label": "Certificate"
+						},
+						"description": ""
+					},
+					{
+						"id": "gjf9725g5ky3qddza5nf8ift",
+						"hidden": false,
+						"title": "AWS JAM, 4th Place",
+						"awarder": "AWS",
+						"date": "Dec 2021",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": ""
+					},
+					{
+						"id": "k1ckafsj1moydrk8ctwfvsu0",
+						"hidden": false,
+						"title": "Francisco José de Caldas Medal",
+						"awarder": "Universidad del Cauca",
+						"date": "Dec 2023",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<p></p>"
+					}
+				]
+			},
+			"certifications": {
+				"title": "Certifications",
+				"columns": 1,
+				"hidden": false,
+				"items": []
+			},
+			"publications": {
+				"title": "Publications",
+				"columns": 1,
+				"hidden": false,
+				"items": []
+			},
+			"volunteer": {
+				"title": "Volunteering",
+				"columns": 1,
+				"hidden": false,
+				"items": []
+			},
+			"references": {
+				"title": "References",
+				"columns": 3,
+				"hidden": false,
+				"items": [
+					{
+						"id": "xa1904esi1y6unog20wryv7v",
+						"hidden": false,
+						"name": "Luis Madrigal",
+						"position": "Software Engineering Director",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"phone": "+506 60483943",
+						"description": "<p></p>"
+					},
+					{
+						"id": "t8iojkerl5nzsymmjgmczj83",
+						"hidden": false,
+						"name": "Diego Cardona",
+						"position": "Senior Front-End Engineer",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"phone": "+57 3133172037",
+						"description": "<p></p>"
+					},
+					{
+						"id": "i1yhnu87o9gwxg3xq4gmjd5h",
+						"hidden": false,
+						"name": "Ricardo Vásquez",
+						"position": "Senior Business Analyst",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"phone": "+57 3183080833",
+						"description": "<p></p>"
+					},
+					{
+						"id": "jextz4fie1mg75c28n08nop3",
+						"hidden": true,
+						"name": "Felipe Medina",
+						"position": "Front-End Engineer",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"phone": "",
+						"description": "<p>+57 3227049632</p>"
+					},
+					{
+						"id": "x29xt0kvpkgzhd6fyvaqpskt",
+						"hidden": true,
+						"name": "Lina Cabrera",
+						"position": "Quality Assurance Analyst",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"phone": "",
+						"description": ""
+					}
+				]
 			}
-		]
-	},
-	"summary": {
-		"title": "Summary",
-		"columns": 1,
-		"hidden": false,
-		"content": "<p>Senior Front-End and Software Engineer with 7+ years of experience delivering scalable, compliant, and high-impact digital solutions within regulated environments, particularly in the pharmaceutical industry. Specialized in designing and architecting modern web applications, with deep expertise in front-end engineering using React, Angular, Astro, Sass, and Node.js.</p><p>Recognized as a technical leader and platform owner, I have designed internal platforms, boilerplates, and automation tools, while also owning CI/CD pipelines and cloud deployments on Azure. I have led distributed teams across multiple regions, defined end-to-end development workflows, and proactively resolved complex compliance issues. </p><p>I focus on building maintainable systems, enabling teams through strong engineering practices, and continuously improving delivery through automation, scalable architecture, and high-quality technical execution.</p>"
-	},
-	"sections": {
-		"profiles": {
-			"title": "Profiles",
-			"columns": 1,
-			"hidden": false,
-			"items": []
 		},
-		"experience": {
-			"title": "Experience",
-			"columns": 1,
-			"hidden": false,
-			"items": [
-				{
-					"id": "bg19yqmqvpcozrgqbpgwnxce",
-					"hidden": false,
-					"company": "Content Factory - Publicis Production",
-					"position": "Senior Front End Engineer",
-					"location": "Bogotá, Colombia",
-					"period": "Dec 2025 - Present",
-					"website": {
-						"url": "",
-						"label": ""
+		"customSections": [
+			{
+				"title": "Experience",
+				"columns": 1,
+				"hidden": true,
+				"id": "gpln9vac1v1vc0uczllkgxip",
+				"type": "experience",
+				"items": [
+					{
+						"id": "r0j5gjdelvy6y8j4i333ot3z",
+						"hidden": false,
+						"company": "Prodigious - Publicis Global Delivery",
+						"position": "Front-End Engineer",
+						"location": "Bogotá, Colombia",
+						"period": "May 2022 – Dec 2022",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Converted UI/UX designs into reusable components using Angular and Vue.js.</p></li><li><p>Developed pixel-perfect, mobile-first layouts for mobile and desktop following best design practices.</p></li><li><p>Implemented features by consuming backend APIs, with full focus on front-end development.</p></li></ul>"
 					},
-					"description": "<ul><li><p>Served as Front-End Lead and Veeva Expert, owning development standards, technical decision-making, and compliance resolution across the account and standardizing end-to-end Digital Sales Presentations (DSPs) development workflows, significantly reducing delivery time and manual effort.</p></li><li><p>Designed, deployed, and supported React + Node.js internal platforms to automate project delivery, business rules enforcement, compliance validation, and Jira task generation.</p></li><li><p>Designed and maintained CI/CD pipelines using Azure Pipelines, enabling automated deployments of multiple internal React + Node.js applications to Azure Web App Services.</p></li><li><p>Led and mentored distributed teams across India, Czech Republic, Costa Rica, Colombia, and Poland, providing technical leadership and knowledge sharing.</p></li></ul>"
+					{
+						"id": "vacmf8r0x49rq05u4h50scpf",
+						"hidden": false,
+						"company": "Cumbre SAS – Software House",
+						"position": "Full-Stack Web Developer",
+						"location": "Popayán, Colombia",
+						"period": "Jan 2022 – May 2022",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Developed and maintained reactive backend services using Java Spring Boot.</p></li><li><p>Designed and exposed REST APIs, integrating them with an Angular front-end.</p></li><li><p>Built Angular components and integrated them with backend services.</p></li><li><p>Worked with PostgreSQL, handling complex data models and large datasets.</p></li></ul>"
+					},
+					{
+						"id": "msvyf2jggg7qeifxlsz5hn2r",
+						"hidden": false,
+						"company": "Level – Local Software House Entrepreneurship",
+						"position": "Founder, Manager Director, Technical Director",
+						"location": "Popayán, Colombia",
+						"period": "Aug 2020 - May 2022",
+						"website": {
+							"url": "",
+							"label": ""
+						},
+						"description": "<ul><li><p>Owned the technical architecture and overall system design, leading both frontend and backend development.</p></li><li><p>Translated business and user requirements into technical solutions and development estimates.</p></li><li><p>Led release management, including code reviews, client demos, QA handoffs, and technical decision-making.</p></li></ul>"
+					}
+				]
+			}
+		],
+		"metadata": {
+			"template": "rhyhorn",
+			"layout": {
+				"sidebarWidth": 35,
+				"pages": [
+					{
+						"fullWidth": false,
+						"main": [
+							"summary",
+							"experience",
+							"projects",
+							"volunteer",
+							"gpln9vac1v1vc0uczllkgxip",
+							"languages",
+							"education",
+							"skills",
+							"awards",
+							"interests",
+							"certifications",
+							"publications",
+							"profiles",
+							"references"
+						],
+						"sidebar": []
+					}
+				]
+			},
+			"css": {
+				"enabled": false,
+				"value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}"
+			},
+			"page": {
+				"gapX": 4,
+				"gapY": 6,
+				"marginX": 18,
+				"marginY": 18,
+				"format": "a4",
+				"locale": "en-US",
+				"hideIcons": false
+			},
+			"design": {
+				"level": {
+					"icon": "star",
+					"type": "circle"
 				},
-				{
-					"id": "ebhccda9f970ecicq6o6mxrc",
-					"hidden": false,
-					"company": "Content Factory - Publicis Global Delivery",
-					"position": "Senior Front-End Engineer",
-					"location": "Bogotá, Colombia",
-					"period": "Aug 2023 - Dec 2025",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Developed Digital Sales Presentations (DSPs) on the Veeva platform, delivering interactive, gesture-based experiences for healthcare professionals.</p></li><li><p>Designed and implemented a custom Astro + React boilerplate, enabling scalable slide-based SPAs, automated builds, and full compliance with Veeva requirements.</p></li><li><p>Led technical processes and team organization, defining workflows, task breakdowns, delegation strategies, and providing technical guidance to front-end developers.</p></li></ul>"
-				},
-				{
-					"id": "hcpn85vug78t8v402adw5is0",
-					"hidden": false,
-					"company": "Publicis Canadá - Publicis Global Delivery",
-					"position": "Front-End Engineer",
-					"location": "Bogotá, Colombia",
-					"period": "Dec 2022 - Aug 2023",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Styled and customized AEM components to match pharmaceutical web designs under strict platform and CSS constraints.</p></li><li><p>Designed and implemented a scalable Sass-based CSS architecture, modularizing styles into a single deployable AEM-compatible output.</p></li><li><p>Introduced Git-based version control and local live-preview workflows, significantly improving maintainability and team efficiency.</p></li></ul>"
-				},
-				{
-					"id": "i0cuj19gfrb9dm9mmq0uuu11",
-					"hidden": false,
-					"company": "Prodigious - Publicis Global Delivery",
-					"position": "Front-End Engineer",
-					"location": "Bogotá, Colombia",
-					"period": "May 2022 – Dec 2022",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Converted UI/UX designs into reusable components using Angular and Vue.js.</p></li><li><p>Developed pixel-perfect, mobile-first layouts for mobile and desktop following best design practices.</p></li><li><p>Implemented features by consuming backend APIs, with full focus on front-end development.</p></li></ul>"
-				},
-				{
-					"id": "ehqczgevqqan0da2413131nd",
-					"hidden": false,
-					"company": "Cumbre SAS – Software House",
-					"position": "Full-Stack Web Developer",
-					"location": "Popayán, Colombia",
-					"period": "Jan 2020 – May 2022",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Developed and maintained reactive backend services using Java Spring Boot.</p></li><li><p>Designed and exposed REST APIs, integrating them with an Angular front-end.</p></li><li><p>Built Angular components and integrated them with backend services.</p></li><li><p>Worked with PostgreSQL, handling complex data models and large datasets.</p></li></ul>"
-				},
-				{
-					"id": "wq7vm0qcshugos0zfk6e2qyf",
-					"hidden": false,
-					"company": "Level – Local Software House Entrepreneurship",
-					"position": "Founder, Manager Director, Technical Director",
-					"location": "Popayán, Colombia",
-					"period": "Aug 2018 - May 2020",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Owned the technical architecture and overall system design, leading both frontend and backend development.</p></li><li><p>Translated business and user requirements into technical solutions and development estimates.</p></li><li><p>Led release management, including code reviews, client demos, QA handoffs, and technical decision-making.</p></li></ul>"
+				"colors": {
+					"primary": "rgba(52, 0, 143, 1)",
+					"text": "rgba(0, 0, 0, 1)",
+					"background": "rgba(255, 255, 255, 1)"
 				}
-			]
-		},
-		"education": {
-			"title": "Education",
-			"columns": 1,
-			"hidden": false,
-			"items": [
-				{
-					"id": "u2l90ix881yi26xaggj2k3r6",
-					"hidden": false,
-					"school": "Universidad del Cauca",
-					"degree": "",
-					"area": "Electronic and Telecommunications Engineering",
-					"grade": "",
-					"location": "",
-					"period": "Aug 2017 - Aug 2023",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": ""
+			},
+			"typography": {
+				"body": {
+					"fontFamily": "IBM Plex Serif",
+					"fontWeights": ["400"],
+					"fontSize": 10.5,
+					"lineHeight": 1.4
 				},
-				{
-					"id": "rl3xcs823anq6cpwwh1uyosb",
-					"hidden": false,
-					"school": "Universidad Sergio Arboleda",
-					"degree": "",
-					"area": "Web Development",
-					"grade": "",
-					"location": "",
-					"period": "Jan 2021 - Dec 2021",
-					"website": {
-						"url": "https://www.misiontic2022.gov.co/",
-						"label": "Mision TIC 2022"
-					},
-					"description": ""
-				},
-				{
-					"id": "bk8of9ge5uymwtqb5lrmk10b",
-					"hidden": false,
-					"school": "Correlation One",
-					"degree": "",
-					"area": "Data Science",
-					"grade": "",
-					"location": "",
-					"period": "Jun 2021 - Jul 2022",
-					"website": {
-						"url": "https://www.credential.net/825723c0-2748-4075-87a5-174088ffbca6#acc.TByh5tgj",
-						"label": "Certificate"
-					},
-					"description": ""
+				"heading": {
+					"fontFamily": "IBM Plex Serif",
+					"fontWeights": ["600"],
+					"fontSize": 13.5,
+					"lineHeight": 1.4
 				}
-			]
-		},
-		"projects": {
-			"title": "Projects",
-			"columns": 3,
-			"hidden": false,
-			"items": [
-				{
-					"id": "z7dnfuf02arf7tolxt7z47od",
-					"hidden": false,
-					"name": "Spotify Clone",
-					"period": "Astro + React",
-					"website": {
-						"url": "https://spotify-react-eta.vercel.app/",
-						"label": "Link"
-					},
-					"description": "<p>Built a Spotify clone with <strong>Astro and React,</strong> leveraging <strong>Island Architecture</strong>. By integrating the <strong>View Transitions API </strong> and <strong>Zustand</strong>, I enabled seamless, uninterrupted audio playback during SSR navigation, blending the SEO benefits of a multi-page site with the fluid UX of an SPA.</p>"
-				},
-				{
-					"id": "zl07xf9o8z4j8qsodg612f4l",
-					"hidden": false,
-					"name": "Spotify Clone",
-					"period": "Astro + Vue",
-					"website": {
-						"url": "https://spotify-vue-beta.vercel.app/",
-						"label": "Link"
-					},
-					"description": "<p>Built a Spotify clone using <strong>Astro and Vue 3</strong> that defies the traditional MPA/SPA boundary. By utilizing <strong>View Transitions</strong> and <strong>Pinia</strong>, I created a multi-page site where music never stops during navigation, combining the SEO benefits of SSR with the fluid UX of a modern SPA</p>"
-				}
-			]
-		},
-		"skills": {
-			"title": "Skills",
-			"columns": 3,
-			"hidden": false,
-			"items": [
-				{
-					"id": "lx90rrwcptjg0yhojkw19syv",
-					"hidden": false,
-					"icon": "",
-					"name": "Front-End",
-					"proficiency": "",
-					"level": 5,
-					"keywords": ["React", "Angular", "Astro", "Vue"]
-				},
-				{
-					"id": "jj9nm0q5zlv2rcv826g8ks4q",
-					"hidden": false,
-					"icon": "",
-					"name": "Programming Languages",
-					"proficiency": "",
-					"level": 5,
-					"keywords": [
-						"Javascript",
-						"Typescript",
-						"Python",
-						"Java",
-						"PHP"
-					]
-				},
-				{
-					"id": "d1i3s521wn7qol3rkulv61hw",
-					"hidden": false,
-					"icon": "",
-					"name": "Control Versioning",
-					"proficiency": "",
-					"level": 5,
-					"keywords": ["Git", "GitHub", "GitLab"]
-				},
-				{
-					"id": "qgvyglhue4wfcycbhe00d7r8",
-					"hidden": false,
-					"icon": "",
-					"name": "Soft Skills",
-					"proficiency": "",
-					"level": 5,
-					"keywords": ["Mentoring", "Decision making", "Proactivity"]
-				},
-				{
-					"id": "itc5vmcvomqre6d5edjfnm59",
-					"hidden": false,
-					"icon": "",
-					"name": "Back-End",
-					"proficiency": "",
-					"level": 4,
-					"keywords": ["Spring Boot", "Django", "Laravel"]
-				},
-				{
-					"id": "reghherhxnnfp6yda4eidis4",
-					"hidden": false,
-					"icon": "",
-					"name": "Cloud",
-					"proficiency": "",
-					"level": 3,
-					"keywords": ["Azure", "AWS", "Oracle", "GCP"]
-				}
-			]
-		},
-		"languages": {
-			"title": "Languages",
-			"columns": 3,
-			"hidden": false,
-			"items": [
-				{
-					"id": "zpzye7r92dtikh1pcttc4ljp",
-					"hidden": false,
-					"language": "Spanish",
-					"fluency": "Native",
-					"level": 5
-				},
-				{
-					"id": "xmqavx26wh8a07y0gtzlu7r6",
-					"hidden": false,
-					"language": "English",
-					"fluency": "C2",
-					"level": 5
-				},
-				{
-					"id": "zepy62xoanemagpk8znut6l8",
-					"hidden": false,
-					"language": "Italian",
-					"fluency": "B1",
-					"level": 3
-				}
-			]
-		},
-		"interests": {
-			"title": "Interests",
-			"columns": 1,
-			"hidden": false,
-			"items": []
-		},
-		"awards": {
-			"title": "Awards",
-			"columns": 1,
-			"hidden": false,
-			"items": [
-				{
-					"id": "f4ru9sqonhc5ni874nwmgk2h",
-					"hidden": false,
-					"title": "Extreme Programming, 1st Place",
-					"awarder": "IEEE Colombia",
-					"date": "Feb 2020",
-					"website": {
-						"url": "https://drive.google.com/file/d/1WSC6nYELkEuFOTwcL0KOqjNTT7OmVlSx/view",
-						"label": "Certificate"
-					},
-					"description": ""
-				},
-				{
-					"id": "gjf9725g5ky3qddza5nf8ift",
-					"hidden": false,
-					"title": "AWS JAM, 4th Place",
-					"awarder": "AWS",
-					"date": "Dec 2021",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": ""
-				},
-				{
-					"id": "k1ckafsj1moydrk8ctwfvsu0",
-					"hidden": false,
-					"title": "Francisco José de Caldas Medal",
-					"awarder": "Universidad del Cauca",
-					"date": "Dec 2023",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<p></p>"
-				}
-			]
-		},
-		"certifications": {
-			"title": "Certifications",
-			"columns": 1,
-			"hidden": false,
-			"items": []
-		},
-		"publications": {
-			"title": "Publications",
-			"columns": 1,
-			"hidden": false,
-			"items": []
-		},
-		"volunteer": {
-			"title": "Volunteering",
-			"columns": 1,
-			"hidden": false,
-			"items": []
-		},
-		"references": {
-			"title": "References",
-			"columns": 3,
-			"hidden": false,
-			"items": [
-				{
-					"id": "xa1904esi1y6unog20wryv7v",
-					"hidden": false,
-					"name": "Luis Madrigal",
-					"position": "Software Engineering Director",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"phone": "+506 60483943",
-					"description": "<p></p>"
-				},
-				{
-					"id": "t8iojkerl5nzsymmjgmczj83",
-					"hidden": false,
-					"name": "Diego Cardona",
-					"position": "Senior Front-End Engineer",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"phone": "+57 3133172037",
-					"description": "<p></p>"
-				},
-				{
-					"id": "i1yhnu87o9gwxg3xq4gmjd5h",
-					"hidden": false,
-					"name": "Ricardo Vásquez",
-					"position": "Senior Business Analyst",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"phone": "+57 3183080833",
-					"description": "<p></p>"
-				},
-				{
-					"id": "jextz4fie1mg75c28n08nop3",
-					"hidden": true,
-					"name": "Felipe Medina",
-					"position": "Front-End Engineer",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"phone": "",
-					"description": "<p>+57 3227049632</p>"
-				},
-				{
-					"id": "x29xt0kvpkgzhd6fyvaqpskt",
-					"hidden": true,
-					"name": "Lina Cabrera",
-					"position": "Quality Assurance Analyst",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"phone": "",
-					"description": ""
-				}
-			]
+			},
+			"notes": ""
 		}
 	},
-	"customSections": [
-		{
-			"title": "Experience",
-			"columns": 1,
-			"hidden": true,
-			"id": "gpln9vac1v1vc0uczllkgxip",
-			"type": "experience",
-			"items": [
-				{
-					"id": "r0j5gjdelvy6y8j4i333ot3z",
-					"hidden": false,
-					"company": "Prodigious - Publicis Global Delivery",
-					"position": "Front-End Engineer",
-					"location": "Bogotá, Colombia",
-					"period": "May 2022 – Dec 2022",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Converted UI/UX designs into reusable components using Angular and Vue.js.</p></li><li><p>Developed pixel-perfect, mobile-first layouts for mobile and desktop following best design practices.</p></li><li><p>Implemented features by consuming backend APIs, with full focus on front-end development.</p></li></ul>"
-				},
-				{
-					"id": "vacmf8r0x49rq05u4h50scpf",
-					"hidden": false,
-					"company": "Cumbre SAS – Software House",
-					"position": "Full-Stack Web Developer",
-					"location": "Popayán, Colombia",
-					"period": "Jan 2022 – May 2022",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Developed and maintained reactive backend services using Java Spring Boot.</p></li><li><p>Designed and exposed REST APIs, integrating them with an Angular front-end.</p></li><li><p>Built Angular components and integrated them with backend services.</p></li><li><p>Worked with PostgreSQL, handling complex data models and large datasets.</p></li></ul>"
-				},
-				{
-					"id": "msvyf2jggg7qeifxlsz5hn2r",
-					"hidden": false,
-					"company": "Level – Local Software House Entrepreneurship",
-					"position": "Founder, Manager Director, Technical Director",
-					"location": "Popayán, Colombia",
-					"period": "Aug 2020 - May 2022",
-					"website": {
-						"url": "",
-						"label": ""
-					},
-					"description": "<ul><li><p>Owned the technical architecture and overall system design, leading both frontend and backend development.</p></li><li><p>Translated business and user requirements into technical solutions and development estimates.</p></li><li><p>Led release management, including code reviews, client demos, QA handoffs, and technical decision-making.</p></li></ul>"
-				}
-			]
-		}
-	],
-	"metadata": {
-		"template": "rhyhorn",
-		"layout": {
-			"sidebarWidth": 35,
-			"pages": [
-				{
-					"fullWidth": false,
-					"main": [
-						"summary",
-						"experience",
-						"projects",
-						"volunteer",
-						"gpln9vac1v1vc0uczllkgxip",
-						"languages",
-						"education",
-						"skills",
-						"awards",
-						"interests",
-						"certifications",
-						"publications",
-						"profiles",
-						"references"
-					],
-					"sidebar": []
-				}
-			]
-		},
-		"css": {
-			"enabled": false,
-			"value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}"
-		},
-		"page": {
-			"gapX": 4,
-			"gapY": 6,
-			"marginX": 18,
-			"marginY": 18,
-			"format": "a4",
-			"locale": "en-US",
-			"hideIcons": false
-		},
-		"design": {
-			"level": {
-				"icon": "star",
-				"type": "circle"
-			},
-			"colors": {
-				"primary": "rgba(52, 0, 143, 1)",
-				"text": "rgba(0, 0, 0, 1)",
-				"background": "rgba(255, 255, 255, 1)"
-			}
-		},
-		"typography": {
-			"body": {
-				"fontFamily": "IBM Plex Serif",
-				"fontWeights": ["400"],
-				"fontSize": 10.5,
-				"lineHeight": 1.4
-			},
-			"heading": {
-				"fontFamily": "IBM Plex Serif",
-				"fontWeights": ["600"],
-				"fontSize": 13.5,
-				"lineHeight": 1.4
-			}
-		},
-		"notes": ""
-	}
+	"isPublic": true,
+	"isLocked": false
 }
